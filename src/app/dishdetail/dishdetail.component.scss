@@ -1,0 +1,17 @@
+.mat-list-base .mat-list-item .mat-line {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: unset;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    display: block;
+    box-sizing: border-box;
+}
+
+.mat-list-item {
+    display: block;
+    height: 48px;
+    -webkit-tap-highlight-color: transparent;
+    width: 100%;
+    padding: 0 0 10px 0;
+}
